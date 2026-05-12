@@ -1,11 +1,10 @@
 print("Hello, bienvenidos a nuestro programa") 
-
+# Este es un programa que funciona teniendo en cuenta tres menus los cuales muestra tres estudiantes y sus edades, el segundo hace la suma o la resta segun lo elegido por el usuario y el tercero es para salir al principio.
 opcionPrincipal = 0
 
 while opcionPrincipal != 3:
     print("MENÚ PRINCIPAL")
     print("1. Mostrar estudiantes")
-    
     print("2. Operaciones (Submenú)")
     print("3. Salir")
 
