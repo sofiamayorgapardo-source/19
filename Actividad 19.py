@@ -1,4 +1,4 @@
-print("Hola, bienvenido") 
+print("Hello, bienvenidos a nuestro programa") 
 
 opcionPrincipal = 0
 
